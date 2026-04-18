@@ -39,13 +39,13 @@ import {
  * --- Firebase 配置(必须替换成你自己的) ---
  */
 const firebaseConfig = {
-  apiKey: "AIzaSyBjDDFcKtNd-xNqPIFfPjInDRI3uMU9roU",
-  authDomain: "navv-c793f.firebaseapp.com",
-  projectId: "navv-c793f",
-  storageBucket: "navv-c793f.firebasestorage.app",
-  messagingSenderId: "308660509260",
-  appId: "1:308660509260:web:a01f57ca9b3fd5904e32e9",
-  measurementId: "G-5SN2N5FLTX"
+  apiKey: "AIzaSyAwkeY_2QO16fHq632SkoFqIc2Oq46gf98",
+  authDomain: "timo-6daad.firebaseapp.com",
+  projectId: "timo-6daad",
+  storageBucket: "timo-6daad.firebasestorage.app",
+  messagingSenderId: "242745595708",
+  appId: "1:242745595708:web:669894f97d375b30c33039",
+  measurementId: "G-ZWSR1SGYR6"
 };
 
 // 初始化 Firebase
