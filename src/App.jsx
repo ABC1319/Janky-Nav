@@ -40,7 +40,7 @@ import {
  */
 const firebaseConfig = {
   apiKey: "AIzaSyAwkeY_2QO16fHq632SkoFqIc2Oq46gf98",
-  authDomain: "timo-6daad.firebaseapp.com",
+  authDomain: "janky-nav.vercel.de5.net",
   projectId: "timo-6daad",
   storageBucket: "timo-6daad.firebasestorage.app",
   messagingSenderId: "242745595708",
